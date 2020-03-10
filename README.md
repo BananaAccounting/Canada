@@ -7,3 +7,4 @@
 
 # Templates
 * [Template Canada English](https://github.com/BananaAccounting/Canada/tree/master/sme)
+
