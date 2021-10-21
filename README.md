@@ -8,3 +8,7 @@
 # Templates
 * [Template Canada English](https://github.com/BananaAccounting/Canada/tree/master/sme)
 
+## Audit Files 
+
+* [Audit File Documentation](https://quickbooks.intuit.com/learn-support/en-ca/accounting/export-quickbooks-online-data-for-a-cra-audit-request/00/830476)
+
